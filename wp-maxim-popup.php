@@ -4,8 +4,8 @@
  * Plugin URI: 
  * Description: Plugin para exibir popups com imagens aleatórias em páginas do WordPress
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: 
+ * Author: Maxim Web Sistemas
+ * Author URI: Maxim Web
  * Text Domain: wp-maxim-popup
  * Domain Path: /languages
  */
